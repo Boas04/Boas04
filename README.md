@@ -57,7 +57,7 @@ Keep building. Keep learning.
 
 <img width="62%" src="https://streak-stats.demolab.com?user=Boas04&theme=github-dark-blue&hide_border=true&background=0D1117&ring=E05A6A&fire=E05A6A&currStreakLabel=E05A6A&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Boas04&bg_color=0D1117&color=C9D1D9&line=E05A6A&point=F0F6FC&area=true&area_color=75283A&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Boas04&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E05A6A&text_color=C9D1D9&icon_color=E05A6A&include_all_commits=true" alt="GitHub statistics" />
 
 </div>
 
